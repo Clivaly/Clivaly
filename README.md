@@ -1,7 +1,7 @@
-### Olá, me chamo Clivaly Rodolpho 👋
+### Olá, me chamo Clivaly Rodolpho 👋😀
 
 
-- 🌱 Aprendendo mais sobre Java e soluçoes de negoçios
+- 🌱 Aprendendo mais sobre Java e soluções de negoçios
 - 👨‍🎓 Curso Analise e Desenvolvimento de Sistemas, termino previsto - 04/2022
 - 🤖 Entusiasta de Tecnologia, filmes, series, games e comida
 - 💼 Open to Work!
