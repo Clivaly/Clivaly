@@ -31,7 +31,7 @@
   <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <!--   <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> -->  
   <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+<!--   <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> -->
 <!--   <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> -->
     
   
