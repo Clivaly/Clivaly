@@ -25,33 +25,18 @@
   <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">     
      
      
-<!-- <h1 align="center">Hi 👋, I'm Andressa Lucatelli, 22y</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/drelocatelli](https://linktr.ee/drelocatelli)
 
-- 📫 How to reach me **https://www.linkedin.com/in/andressa-lucatelli/**
-
-<a href="https://www.buymeacoffee.com/drelocatelli" title="buy me a coffee"><img src="https://user-images.githubusercontent.com/32282846/126049168-d98c147c-6893-4272-9383-e166d80a8bfa.png"></a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/andressa-lucatelli" target="blank"><img align="center" src="https://www.televendasecobranca.com.br/wp-content/uploads/2013/03/As-10-palavras-mais-amadas-pelos-brasileiros-no-linkedin-televendas-cobranca-oficial.jpg" alt="andressa-lucatelli" height="30" width="40" /></a>
-<a href="https://discord.gg/Canastra#7400" target="blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/12/Discord-Logo.png" alt="Canastra#7400" height="30" width="40" /></a>
-</p>
-
-<h3>Front-end</h3>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://materializecss.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://vuejs.org" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/128611136-e5654e63-4e3b-4b4e-80f0-55de82045633.png" alt="vuejs" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://svelte.dev" rel="nofollow"> <img src="https://camo.githubusercontent.com/6926de691c36b618f81c870430e0a5e0c2c4930f2b71a3e7682752fa8efe96c0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31622f5376656c74655f4c6f676f2e737667" alt="svelte" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" style="max-width: 100%;"></a>
 <a href="https://pt-br.reactjs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/144276751-bffd469a-081b-46a5-9730-f25d87560649.png" alt="reactjs" width="60" height="40" style="max-width: 100%;"></a>
 
 
+<!-- 
 <h3>Back-end</h3>
 <a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/121811880-2ec99900-cc3c-11eb-86e8-c008c97031f8.png" alt="c#" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://firebase.google.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;"></a>
