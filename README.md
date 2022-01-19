@@ -4,7 +4,6 @@
 - Aprendendo mais sobre Java e devOps
 - Curso Analise e Desenvolvimento de Sistemas
 - Entusiasta de tecnologia, filmes, series, games e comida
-- 💼 Open to Work!
      
 
 ##
@@ -16,26 +15,18 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=clivaly&layout=compact&langs_count=7&theme=gruvbox"/>
 </div> 
   
-<div style="display: inline-block"><br> 
-  <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">     
-     
+<div style="display: inline-block"><br>  
+  <img align="center" alt="Cliv-Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<!--   <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Cliv-Csharp" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  -->
+  <img align="center" alt="Cliv-SpringBoot" src="https://img.shields.io/badge/-Spring%20Boot-green?style=for-the-badge&logo=Spring&logoColor=white">
+  <img align="center" alt="Cliv-Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Cliv-Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> 
+  <img align="center" alt="Cliv-Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"> 
      
 
 
-<!-- <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://vuejs.org" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/128611136-e5654e63-4e3b-4b4e-80f0-55de82045633.png" alt="vuejs" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"></a>
-<a href="http://spring.io" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/139592580-6485e942-7a0b-489e-9f9f-50fc891aac6b.png" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://hibernate.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/139592654-224a2ed0-c15d-48f9-8aa0-47f916e3faa1.png" width="90" height="50" style="max-width: 100%;"></a>     
-<a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"></a>
+
 <!-- <a href="https://www.selenium.dev" rel="nofollow"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://aws.amazon.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="max-width: 100%;"></a>
@@ -44,7 +35,7 @@
 
 <h3>GUI / Mobile</h3>
 <a href="https://flutter.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/143912126-09f2afd1-2c5d-495f-9a8f-c59195e5e0bf.png" alt="flutter" width="80" height="40" style="max-width: 100%;"></a>
--->
+
 
 <br />
 
