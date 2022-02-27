@@ -22,7 +22,7 @@
   <img align="center" alt="Cliv-SpringBoot" src="https://img.shields.io/badge/-Spring%20Boot-green?style=for-the-badge&logo=Spring&logoColor=white">
   <img align="center" alt="Cliv-Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="Cliv-Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> 
-  <img align="center" alt="Cliv-Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"> 
+<!--   <img align="center" alt="Cliv-Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">  -->
      
 
 
