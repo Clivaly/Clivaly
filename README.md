@@ -21,7 +21,7 @@
   <img align="center" alt="Cliv-prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   <!-- <img align="center" alt="Cliv-istio" src="https://img.shields.io/badge/Istio-516BAA?style=for-the-badge&logo=istio&logoColor=white"> -->
   <img align="center" alt="Cliv-jenkins" src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white">
-  <!-- <img align="center" alt="Cliv-linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"> ->>   
+  <!-- <img align="center" alt="Cliv-linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"> -->   
 
 <br />     
 </div>  
