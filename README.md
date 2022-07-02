@@ -17,7 +17,7 @@
   <img align="center" alt="Cliv-Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> 
   <img align="center" alt="Cliv-Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
  
-  <img align="center" alt="Cliv-nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <!-- <img align="center" alt="Cliv-nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> -->
   <img align="center" alt="Cliv-prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   <!-- <img align="center" alt="Cliv-istio" src="https://img.shields.io/badge/Istio-516BAA?style=for-the-badge&logo=istio&logoColor=white"> -->
   <img align="center" alt="Cliv-jenkins" src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white">
