@@ -7,8 +7,8 @@
 - Organizando este github pessoal...
 
 ##
-
-<div>  
+<section>
+<!-- <div style="margim=25px">   -->
 <!--   <img align="center" alt="Cliv-AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> -->
   <img align="center" alt="Cliv-AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   
@@ -25,15 +25,14 @@
 <!--   <img align="center" alt="Cliv-istio" src="https://img.shields.io/badge/Istio-516BAA?style=for-the-badge&logo=istio&logoColor=white"> -->
   <img align="center" alt="Cliv-grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
 <!--   <img align="center" alt="Cliv-jenkins" src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white"> -->
-  <div>
+<!--   <div style="margim-top=5px"> -->
+  
   <img align="center" alt="Cliv-datadog" src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white">
   <img align="center" alt="Cliv-linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
- 
-  </div>
- 
-
+<!--   </div> -->
+  </section>
 <br />     
-</div>  
+<!-- </div>   -->
 
   ##
   
